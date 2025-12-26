@@ -28,7 +28,7 @@ body {
 
 .raindrop {
     position: absolute;
-    background-image: url('/kakoyaki.png');
+    background-image: url('/src/kakoyaki.png');
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -50,7 +50,7 @@ body {
 
 .content p {
     font-size: 1.2rem;
-    opacity: 0.9;
+    opacity: 0.6;
     line-height: 1.6;
 }
 
