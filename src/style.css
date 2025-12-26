@@ -28,7 +28,7 @@ body {
 
 .raindrop {
     position: absolute;
-    background-image: url('/src/kakoyaki.png');
+    background-image: url('https://github.com/zjkm666/steffi-takoyaki/blob/fc29bc241ca7917a1fcb5a78ef47d4f11a422fb8/src/kakoyaki.png?raw=true');
     background-size: contain;
     background-repeat: no-repeat;
 }
