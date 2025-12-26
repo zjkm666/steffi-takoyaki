@@ -9,7 +9,7 @@ class Raindrop {
 
         this.x = Math.random() * window.innerWidth;
         this.y = Math.random() * window.innerHeight - window.innerHeight;
-        this.width = Math.random() * 20 + 20; // 8-16px
+        this.width = Math.random() * 50 + 50; // 8-16px
         this.height = this.width * 20;
         this.speed = Math.random() * 1 + 3; // 6-10px per frame
         this.windEffect = Math.random() * 2 - 1; // -1 to 1
